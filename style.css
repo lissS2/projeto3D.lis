@@ -48,7 +48,7 @@ body{
     font-size: 18px;
     align-items: center;
     width: 100%;
-    border-bottom: 4px solid var(--verde-claro);
+    border-bottom: 4px solid var(--verde);
     border-left: 2px solid var(--verde-claro);
     border-right: 2px solid var(--verde-claro);
     border-top: none;
