@@ -49,7 +49,7 @@ body{
     align-items: center;
     width: 100%;
     border-bottom: 4px solid var(--verde);
-    border-left: 2px solid var(--verde-claro);
-    border-right: 2px solid var(--verde-claro);
+    border-left: 2px solid var(--verde);
+    border-right: 2px solid var(--verde);
     border-top: none;
 }
